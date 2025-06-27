@@ -1,6 +1,6 @@
-# **SanikHire Chatbot**
+# 🧠**SanikHire Chatbot**
 
-## **Overview**
+## 📌**Overview**
 
 The SanikHire Chatbot is an AI-powered assistant built to provide fast, relevant, and personalized answers to Ex-Servicemen. It leverages multiple data sources — scraped job listings, PDF-based knowledge, and MongoDB — to deliver intelligent responses through natural language queries. This module is designed to run locally and can be integrated into broader systems.
 
